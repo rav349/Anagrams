@@ -1,4 +1,4 @@
-I have create a solution which takes in a filepath to a file which contains one word per line and will return an output to the console that would group together all anagrams a in comma separated list. 
+I have created a solution which takes in a filepath to a file which contains one word per line and will return an output to the console that would group together all anagrams a in comma separated list. 
 
 The code can be run by the following command
 "dotnet <path to codingtest.dll> <path to text file>"
