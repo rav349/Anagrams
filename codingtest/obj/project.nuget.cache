@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybIq8m/ZG6wUV8k+9IGx25JqXzzZfN1zAalSLGpozE+t4Lo5f0YgK1f3+yp8kNvmOVIdQOb+6aD+QgDVG3gQNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rav34\\RiderProjects\\Anagrams\\codingtest\\codingtest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rav34\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.2.24128.5\\microsoft.extensions.dependencyinjection.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\rav34\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\rav34\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\rav34\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\rav34\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\rav34\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
